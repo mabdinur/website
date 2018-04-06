@@ -1,4 +1,4 @@
 # website
 Personal website 
 
-![ScreenShot](https://raw.github.com/{username}/{repository}/{branch}/{path})
+![ScreenShot](https://raw.github.com/mabdinur/website/master/website.png)
