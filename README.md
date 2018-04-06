@@ -1,4 +1,4 @@
 # website
 Personal website 
 
-![ScreenShot](https://raw.github.com/mabdinur/website/master/website.png)
+![ScreenShot](https://github.com/mabdinur/website/blob/master/website.PNG)
